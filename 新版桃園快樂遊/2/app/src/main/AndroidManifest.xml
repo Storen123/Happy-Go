@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.storen123.a2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/touyuan2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/taoyuan7"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Yaya"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bade"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Lieutenant"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dac"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Lonton"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Pin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kuku"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Lusu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dayuan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kunin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Xinwu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Younmai"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fuxin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".yaya3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".yaya4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bade2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bade3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Zonli2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Zonli3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dac2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dac3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".lonton2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pin2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".kuku2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".lusu2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dayuan2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".kunin2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".xinwu2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".younmai2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".fuxin2"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

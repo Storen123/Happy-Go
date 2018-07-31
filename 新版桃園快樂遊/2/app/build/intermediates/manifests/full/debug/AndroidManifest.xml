@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.storen123.a2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/touyuan2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/taoyuan7"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.storen123.a2.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.storen123.a2.Yaya"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Bade"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Lieutenant"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Dac"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Lonton"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Pin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Kuku"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Lusu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Dayuan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Kunin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Xinwu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Younmai"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Fuxin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.yaya3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.yaya4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Bade2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Bade3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Zonli2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.Zonli3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.dac2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.dac3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.lonton2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.pin2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.kuku2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.lusu2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.dayuan2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.kunin2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.xinwu2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.younmai2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.storen123.a2.fuxin2"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
